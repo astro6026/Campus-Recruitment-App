@@ -1,4 +1,4 @@
-## [Divyanshu Kapoor]  https://github.com/divyanshukapoor
+## [AMAN SHROFF]  https://github.com/astro6026
 # Campus Recruitment App
 
 ## Features:-
